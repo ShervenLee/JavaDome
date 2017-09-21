@@ -1,0 +1,3 @@
+﻿Manifest-Version: 1.0
+Main-Class: com.Ryan.打砖块MAIN
+Class-path: lib/jl1.0.jar lib/RuPengGame.jar
